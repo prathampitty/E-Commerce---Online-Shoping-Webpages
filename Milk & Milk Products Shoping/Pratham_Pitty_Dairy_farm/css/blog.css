@@ -1,0 +1,190 @@
+/*
+Template Name: Dairy Farm
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************blog****************/
+#blog{
+padding-top:40px;
+padding-bottom:40px;
+border-bottom:1px solid #eee;
+ }
+.blog_pg_1l1i {
+background: #f4f9ff;
+padding: 25px 15px 30px 15px;
+}
+.blog_pg_1l1 ul li{
+display:inline-block;
+margin-right:20px;
+ }
+.blog_pg_1l1 ul li i{
+margin-right:5px;
+ }
+.blog_pg_1l1{
+margin-top:30px; 
+ }
+.blog_1r1 .input-group{
+margin-top:20px;
+border:1px solid #eee; 
+ }
+.blog_1r1 .form-control{
+height:50px;
+border:none;
+box-shadow:none; 
+background:none;
+font-size:16px;
+ }
+.blog_1r1 .btn{
+background:none;
+border:none;
+box-shadow:none; 
+color:#666;
+font-size:16px;
+ }
+.blog_1r1{
+margin-top:30px;
+border-top:5px solid #bdc53b;
+padding-top:20px; 
+ }
+.blog_1r1 h6{
+border-bottom:1px solid #eee;
+padding-bottom:15px;
+font-size:15px; 
+ }
+.blog_1r1 p{
+border-bottom:1px solid #eee;
+padding-bottom:15px; 
+ }
+.blog_1rst{
+margin-top:30px; 
+border-top:5px solid #bdc53b;
+padding-top:20px;
+ }
+.blog_1rst img{
+margin:auto; 
+ }
+ 
+.blog_detail_l2{
+padding:30px 15px;
+box-shadow: 0 0 5px #ddd;
+margin-top:30px; 
+ }
+.blog_detail_l2i1 h4 a{
+font-size:16px; 
+ }
+.blog_detail_l2i1{
+margin-top:30px; 
+border-bottom:1px solid #eee;
+padding-bottom:30px; 
+ }
+.blog_1ln .form-control{
+width:70%; 
+ }
+.blog_1ln .form_1{
+width:100%; 
+ }
+.blog_1ln{
+padding:30px 15px;
+box-shadow: 0 0 5px #ddd;
+margin-top:30px; 
+ }
+ 
+.blog_1l1 blockquote {
+margin-bottom: 0;
+border-color: #629bd0;
+margin-top: 20px;
+background: #fff;
+padding: 30px;
+}
+.blog_1l1 .nav_n1 li{
+display:inline-block;
+margin-right:10px;
+ }
+.blog_1l1 .nav_n1 li a{
+padding: 9px 15px 10px 15px;
+background: #f4f9ff; 
+border-radius:30px;
+display:block;
+font-size:16px;
+ }
+.blog_1l1 .nav_n1 li a:hover{
+background:#629bd0;
+color:#fff;
+ }
+
+.blog_1l1 .nav_n {
+list-style:disc;
+margin-left:20px;
+margin-right:20px;
+ }
+.blog_1l1 .nav_n li{
+margin-top:5px;
+ }
+.contact_1r .form-control{
+height:50px;
+margin-bottom:20px;
+border:none;
+background:#f4f9ff;
+box-shadow:none;
+font-size:16px;
+ }
+.contact_1r .form_1{
+height:150px; 
+ }
+ 
+.blog_1r1  h6 i {
+font-size: 8px;
+vertical-align: middle;
+margin-right: 5px;
+color:#bdc53b;
+}
+/*********************blog_end****************/
+
+
+@media screen and (max-width : 767px){
+#blog{
+text-align:center; 
+ }
+#blog p{
+text-align:left; 
+ }
+.blog_1r{
+margin-top:20px; 
+ }
+.blog_detail_l2i1 .pull-right {
+float: none!important;
+}
+.blog_detail_l2i1 img{
+margin-bottom:15px;
+ }
+.blog_1l1 .nav_n {
+text-align:left;
+ }
+.blog_1l1 .nav_n1{
+text-align:left;
+ }
+.blog_1l1 .nav_n1 li {
+margin-top:5px;
+margin-left:5px;
+margin-right:5px;
+ }
+
+.blog_detail_l2i1 h4{
+font-size:22px; 
+ }
+.blog_pg_1l1i  ul{
+text-align:left; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+  }
+@media (min-width:1201px) and (max-width:1330px) {
+
+ }
